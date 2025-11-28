@@ -72,7 +72,7 @@ The simulator tracks several biological states:
 
 ### Running the Simulator
 
-The project can be run directly as a script (`Evolution.py`, implied by notebook analysis) or within a Jupyter/VS Code notebook environment.
+The project can be run directly as a script (`Evolution.ipynb`, implied by notebook analysis) or within a Jupyter/VS Code notebook environment.
 
 
 
